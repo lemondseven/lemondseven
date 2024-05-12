@@ -1,4 +1,4 @@
-![image](https://github.com/lemondseven/lemondseven/assets/73470751/56835803-4a1e-423a-ab37-71a34d01a240)# こんにちは！👋
+# こんにちは！👋
 
 Hello, My (pen) name is Koujiki *(柑子木)* Lemond and I'm a Fullstack Web Developer.
 Currently, I'm working as a full time frontend engineer somewhere in Southeast Asia. 🌏
