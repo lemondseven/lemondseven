@@ -1,4 +1,4 @@
-# こんにちは！👋
+![image](https://github.com/lemondseven/lemondseven/assets/73470751/56835803-4a1e-423a-ab37-71a34d01a240)# こんにちは！👋
 
 Hello, My (pen) name is Koujiki *(柑子木)* Lemond and I'm a Fullstack Web Developer.
 Currently, I'm working as a full time frontend engineer somewhere in Southeast Asia. 🌏
@@ -6,6 +6,7 @@ Currently, I'm working as a full time frontend engineer somewhere in Southeast A
 ### Short Personal Thingy
 - I can draw anime style 🖌️
 - Also can play guitar 🎸
+- Currently, part of [Korigengi.net](https://www.facebook.com/korigengi), A circle filled with creative people! 🧑‍🎨
 - 日本語をしゃべることができる 🇯🇵
 
 ### Languages
@@ -24,7 +25,7 @@ Currently, I'm working as a full time frontend engineer somewhere in Southeast A
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HONO](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 
 ### Project
-I did a lot of project but since a lot of my client want me to keep it secret from other, I will not tell anybody. :'(
+I did a lot of project but since a lot of my client want me to keep it secret from other, I will not tell anybody. 🥲
 
 Currently, I also doing some sideproject, will add to list below if finished.
  - [Pokelemond](https://pokelemond.vercel.app/)
