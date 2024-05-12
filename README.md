@@ -1,3 +1,5 @@
+[![lemondseven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lemondseven&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # こんにちは！👋
 
 Hello, My (pen) name is Koujiki *(柑子木)* Lemond and I'm a Fullstack Web Developer.
