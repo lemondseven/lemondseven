@@ -24,9 +24,7 @@ Currently, I'm working as a full time frontend engineer somewhere in Southeast A
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![ESLINT](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Learning On Progress
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HONO](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white) ![KOTLIN](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Project
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HONO](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 I did a lot of project but since a lot of my client want me to keep it secret from other, I will not tell anybody. 🥲
 
 Currently, I also doing some sideproject, will add to list below if finished.
