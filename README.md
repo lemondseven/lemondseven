@@ -25,6 +25,7 @@ Currently, I'm working as a full time frontend engineer somewhere in Southeast A
 
 ### Learning On Progress
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HONO](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+
 I did a lot of project but since a lot of my client want me to keep it secret from other, I will not tell anybody. 🥲
 
 Currently, I also doing some sideproject, will add to list below if finished.
