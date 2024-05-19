@@ -11,7 +11,7 @@ Currently, I'm working as a full time frontend engineer somewhere in Southeast A
 - Currently, part of [Korigengi.net](https://www.facebook.com/korigengi), A circle filled with creative people! 🧑‍🎨
 - 日本語をしゃべることができる 🇯🇵
 
-### Languages
+### Programming Languages
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend Technologies & Tools
