@@ -8,7 +8,6 @@ Currently, I'm working as a full time frontend engineer somewhere in Southeast A
 ### Short Personal Thingy
 - I can draw anime style 🖌️
 - Also can play guitar 🎸
-- Currently, part of [Korigengi.net](https://www.facebook.com/korigengi), A circle filled with creative people! 🧑‍🎨
 - 日本語をしゃべることができる 🇯🇵
 
 ### Programming Languages
